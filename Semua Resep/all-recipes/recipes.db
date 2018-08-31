@@ -1,6 +1,6 @@
-[R_Corn_Dog_by_sherlock1]
+[R_Corn_Dog_by_sherlock0]
 Name=Corn Dog
-Author=sherlock1
+Author=sherlock0
 Description=Snacks made from sausage wrapped in flour and sausage.
 Cuisine=Indonesia
 Season=
@@ -15,7 +15,7 @@ Yield=1 porsi
 Spiciness=15
 Diets=32
 DefaultImage=0
-Images=images/corn dog.jpg2;
+Images=images/corn dog.jpg;
 Created=2018-8-28 17:49:15
 Modified=2018-8-28 17:56:11
 
@@ -23,7 +23,7 @@ Modified=2018-8-28 17:56:11
 Name=Bakwan Jagung
 Author=sherlock0
 Description=Bakwan Jagung is one of the delicious snacks and also filling.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=side
 PrepTime=Less than 15 minutes
@@ -36,15 +36,15 @@ Yield=1 porsi
 Spiciness=15
 Diets=32
 DefaultImage=0
-Images=images/bakwan-jagung0.png2;
+Images=images/bakwan-jagung.png;
 Created=2018-8-21 9:24:34
 Modified=2018-8-28 17:56:22
 
-[R_Seblak_Elbow_Macaroni_by_sherlock1]
+[R_Seblak_Elbow_Macaroni_by_sherlock0]
 Name=Seblak Elbow Macaroni
-Author=sherlock1
+Author=sherlock0
 Description=Seblak, Bandung's favorite favorite food has been very popular since the 2000s and until now there have been many modifications. But certainly the main role is kencur.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=winter
 Category=side
 PrepTime=Less than 15 minutes
@@ -57,7 +57,7 @@ Yield=1 porsi
 Spiciness=65
 Diets=32
 DefaultImage=0
-Images=images/seblak-elbow.png2;
+Images=images/seblak-elbow.png;
 Created=2018-8-28 18:19:42
 Modified=2018-8-28 18:24:38
 
@@ -65,7 +65,7 @@ Modified=2018-8-28 18:24:38
 Name=Bakwan Jagung
 Author=sherlock
 Description=Bakwan Jagung is one of the snacks that my family likes. How to make it simple. Suitable for accompanying tea or hot coffee while enjoying the scenery or watching soccer matches
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=side
 PrepTime=Less than 15 minutes
@@ -107,7 +107,7 @@ Modified=2018-8-29 14:26:14
 Name=Capcai
 Author=sherlock
 Description=Capcai is suitable as one of the vegetable dishes that deserve to be chosen for those of you who want a variety of vegetables in one menu. This simple capcai is made with simple ingredients, but for practice friends can also add mustard or tomatoes
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=other
 PrepTime=15 to 30 minutes
@@ -128,7 +128,7 @@ Modified=2018-8-29 14:24:56
 Name=Cold Frapuccino Date
 Author=sherlock0
 Description=A combination of Espresso and Dates. 100% Sweet Dates.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=drinks
 PrepTime=Less than 15 minutes
@@ -141,28 +141,7 @@ Yield=2 porsi
 Spiciness=15
 Diets=32
 DefaultImage=0
-Images=images/CFD.jpg0.png1;
-Created=2018-8-21 9:15:19
-Modified=2018-8-28 17:55:57
-
-[R_Cold_Frapuccino_Date_by_sherlock1]
-Name=Cold Frapuccino Date
-Author=sherlock1
-Description=A combination of Espresso and Dates. 100% Sweet Dates.
-Cuisine=Indonesia
-Season=summer
-Category=drinks
-PrepTime=Less than 15 minutes
-CookTime=Less than 15 minutes
-Ingredients=4	sdt	Instant Espresso	Bahan\n6	sdm	Pasta Dates (kurma)	Bahan\n6	sdm	Full White Cream White Milk	Bahan\n10		Frozen Milk (Milk Ice)	Bahan
-Instructions=Blend all ingredients until smooth (like photos).\n\nTaste the sweetness, add pasta dates (kurma) again if it feels less sweet.\n\nGive whipped cream or ice cream to taste.\n\nServe immediately or store it in the freezer for a few days or store it in the refrigerator (bottom of the freezer) before serving.\n
-Notes=
-Serves=2
-Yield=2 porsi
-Spiciness=15
-Diets=32
-DefaultImage=0
-Images=images/CFD.jpg0.png2;
+Images=images/CFD.png;
 Created=2018-8-21 9:15:19
 Modified=2018-8-28 17:55:57
 
@@ -212,7 +191,7 @@ Modified=2018-8-29 14:46:49
 Name=Balada Telur dan Tempe
 Author=sherlock
 Description=Egg ballads and tempeh are one choice of side dishes that present two kinds of proteins at once. Only requires simple spices to bring this charming side dish.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=side
 PrepTime=15 to 30 minutes
@@ -229,11 +208,11 @@ Images=images/Balada Telur dan Tempe.jpg;
 Created=2018-8-29 14:37:54
 Modified=2018-8-29 14:37:54
 
-[R_Spaghetti_Ayam_Jamur_Lada_Hitam_by_sherlock1]
+[R_Spaghetti_Ayam_Jamur_Lada_Hitam_by_sherlock0]
 Name=Spaghetti Ayam Jamur Lada Hitam
-Author=sherlock1
+Author=sherlock0
 Description=Spageti is one type of paste that is long, thin, cylindrical and dense, which, if considered to resemble noodles, is combined with black pepper mushrooms.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=side
 PrepTime=Less than 15 minutes
@@ -246,7 +225,7 @@ Yield=1 porsi
 Spiciness=65
 Diets=32
 DefaultImage=0
-Images=images/spageti-ayam-jamur.png2;
+Images=images/spageti-ayam-jamur.png;
 Created=2018-8-28 18:26:56
 Modified=2018-8-29 4:3:22
 
@@ -288,7 +267,7 @@ Yield=8 servings
 Spiciness=15
 Diets=0
 DefaultImage=0
-Images=images/martabak_mie.jpeg.jpg;
+Images=images/martabak_mie.jpg;
 Created=2018-8-29 13:25:17
 Modified=2018-8-29 13:46:16
 
@@ -317,7 +296,7 @@ Modified=2018-8-29 14:8:58
 Name=Cah Kangkung
 Author=sherlock
 Description=
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=other
 PrepTime=Less than 15 minutes
@@ -359,7 +338,7 @@ Modified=2018-8-29 14:2:13
 Name=Omelet
 Author=sherlock
 Description=Eggs are one of the foods that contain protein whose prices are quite affordable. Various egg dishes are very diverse. This time I will share a festive omelette recipe with simple and economical ingredients.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=side
 PrepTime=Less than 15 minutes
@@ -372,7 +351,7 @@ Yield=6 porsi
 Spiciness=15
 Diets=32
 DefaultImage=0
-Images=images/omelet0.jpg;
+Images=images/omelet.jpg;
 Created=2018-8-29 13:58:34
 Modified=2018-8-29 13:58:46
 
@@ -380,7 +359,7 @@ Modified=2018-8-29 13:58:46
 Name=Kopyor Nutrijel
 Author=sherlock
 Description=This fresh drink is very easy to practice. Instead of buying beyond the cleanliness that can not be ascertained, it is better to make nutrijel kopyor. Easy, cheap, and fast served.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=drinks
 PrepTime=Less than 15 minutes
@@ -397,11 +376,11 @@ Images=images/kopyor-nutrijell.jpg;
 Created=2018-8-29 14:10:54
 Modified=2018-8-29 14:16:49
 
-[R_Martabak_Manis_Red_Velvet_by_sherlock1]
+[R_Martabak_Manis_Red_Velvet_by_sherlock0]
 Name=Martabak Manis Red Velvet
-Author=sherlock1
+Author=sherlock0
 Description=Martabak is a popular snack in Indonesia.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=cake
 PrepTime=Less than 15 minutes
@@ -414,15 +393,15 @@ Yield=1 porsi
 Spiciness=15
 Diets=32
 DefaultImage=0
-Images=images/martabak-merah.png2;
+Images=images/martabak-merah.png;
 Created=2018-8-28 18:13:16
 Modified=2018-8-28 18:13:56
 
-[R_Bakwan_Jagung_2_by_sherlock1]
+[R_Bakwan_Jagung_2_by_sherlock0]
 Name=Bakwan Jagung 2
-Author=sherlock1
+Author=sherlock0
 Description=Bakwan Jagung is one of the delicious snacks and also filling.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=side
 PrepTime=Less than 15 minutes
@@ -435,7 +414,7 @@ Yield=1 porsi
 Spiciness=15
 Diets=32
 DefaultImage=0
-Images=images/bakwan-jagung0.png3;
+Images=images/bakwan-jagung.png;
 Created=2018-8-21 9:24:34
 Modified=2018-8-28 17:56:22
 
@@ -443,7 +422,7 @@ Modified=2018-8-28 17:56:22
 Name=Pastry Sambel
 Author=sherlock
 Description=This modern snack with local flavor is perfect for offering friends from abroad who visit Indonesia. Without reducing the excitement of a snack, chili pastry should be served for special guests.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=summer
 Category=cake
 PrepTime=15 to 30 minutes
@@ -460,11 +439,11 @@ Images=images/pastry-sambel.jpg;
 Created=2018-8-29 14:2:48
 Modified=2018-8-29 14:2:48
 
-[R_Kulit_Ayam_Pedas_Renyah__Spicy_Chicken_Skins__by_sherlock1]
+[R_Kulit_Ayam_Pedas_Renyah__Spicy_Chicken_Skins__by_sherlock0]
 Name=Kulit Ayam Pedas Renyah (Spicy Chicken Skins)
-Author=sherlock1
+Author=sherlock0
 Description=Delicious snacks from chicken skin.
-Cuisine=Indonesia
+Cuisine=Indonesian
 Season=winter
 Category=side
 PrepTime=Less than 15 minutes
@@ -477,6 +456,6 @@ Yield=1 porsi
 Spiciness=65
 Diets=32
 DefaultImage=0
-Images=images/chicken-skins.jpg2;
+Images=images/chicken-skins.jpg;
 Created=2018-8-28 17:55:41
 Modified=2018-8-28 18:6:6
