@@ -397,27 +397,6 @@ Images=images/martabak-merah.png;
 Created=2018-8-28 18:13:16
 Modified=2018-8-28 18:13:56
 
-[R_Bakwan_Jagung_2_by_sherlock0]
-Name=Bakwan Jagung 2
-Author=sherlock0
-Description=Bakwan Jagung is one of the delicious snacks and also filling.
-Cuisine=Indonesian
-Season=summer
-Category=side
-PrepTime=Less than 15 minutes
-CookTime=15 to 30 minutes
-Ingredients=2		Sweet Corn	\n0,5		Carrot	\n1		Leek	\n1		Egg	\n3	sdm	Wheat flour	\n1	sdm	Rice Flour	\n1,5	sdt	Salt	\n1	sdt	Powder Broth	\n1		Garlic	\n3	sdt	Pepper Powder	
-Instructions=Shave the corn and puree it in a rough or smooth manner as desired, or grate. Put it in a container.\n\nPut all ingredients in the fine corn except the two flour.\n\nMix well and add both flour. Stir again until all the ingredients are mixed.\n\nHeat a lot of vegetable oil with a medium stove fire to heat. Pour a little corn bakwan mixture for desired flavor correction.\n\nPour 1 tablespoon of corn bakwan mixture into a frying pan. Fry until cooked golden yellow by just turning it over so it doesn't absorb too much oil.\n\nDrain using kitchen tissue. Serve when it's warm.\n
-Notes=
-Serves=1
-Yield=1 porsi
-Spiciness=15
-Diets=32
-DefaultImage=0
-Images=images/bakwan-jagung.png;
-Created=2018-8-21 9:24:34
-Modified=2018-8-28 17:56:22
-
 [R_Pastry_Sambel_by_sherlock]
 Name=Pastry Sambel
 Author=sherlock
